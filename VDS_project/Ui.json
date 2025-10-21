@@ -1,0 +1,52 @@
+{
+    "button": 
+    {
+        "colours": 
+        {
+            "normal_border": "#000000",
+            "hovered_border": "#000000",
+            "selected_border": "#000000",
+            "active_border": "#000000",
+
+            "normal_text": "#000000",
+            "hovered_text": "#000000",
+            "active_text": "#000000"
+        },
+
+        "font":
+            {
+                "size": 20
+            },
+
+        "border_width": 3,
+        "shadow_width": 0
+    },
+
+    "#idle_button":
+    {
+        "colours": 
+        {
+            "normal_bg": "#00ddfa", 
+            "hovered_bg": "#8cf1ff", 
+            "active_bg": "#8cf1ff"
+        }
+    },    
+
+    "#selected_button":
+    {
+        "colours": 
+        {
+            "normal_bg": "#00fb00",
+            "hovered_bg": "#00fb00",
+            "active_bg": "#00fb00"
+        } 
+    },
+
+    "#small_button":
+    {
+        "font":
+            {
+                "size": 8
+            }
+    }
+}
